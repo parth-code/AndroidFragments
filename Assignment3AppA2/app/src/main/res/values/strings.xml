@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Assignment3AppA2</string>
+    <string name = "permission_desc">Allows app A2 to open via intent</string>
+</resources>

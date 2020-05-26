@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Assignment3AppA1</string>
+    <string name="permission">edu.uic.cs478.sp2020.project3</string>
+    <string name = "permission_desc">Allows app A2 to open via intent</string>
+</resources>
